@@ -1,0 +1,14 @@
+C:\Users\Mario\Documents\csharp\arrays\exercise7\bin\Debug\net8.0\exercise7.exe
+C:\Users\Mario\Documents\csharp\arrays\exercise7\bin\Debug\net8.0\exercise7.deps.json
+C:\Users\Mario\Documents\csharp\arrays\exercise7\bin\Debug\net8.0\exercise7.runtimeconfig.json
+C:\Users\Mario\Documents\csharp\arrays\exercise7\bin\Debug\net8.0\exercise7.dll
+C:\Users\Mario\Documents\csharp\arrays\exercise7\bin\Debug\net8.0\exercise7.pdb
+C:\Users\Mario\Documents\csharp\arrays\exercise7\obj\Debug\net8.0\exercise7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mario\Documents\csharp\arrays\exercise7\obj\Debug\net8.0\exercise7.AssemblyInfoInputs.cache
+C:\Users\Mario\Documents\csharp\arrays\exercise7\obj\Debug\net8.0\exercise7.AssemblyInfo.cs
+C:\Users\Mario\Documents\csharp\arrays\exercise7\obj\Debug\net8.0\exercise7.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Documents\csharp\arrays\exercise7\obj\Debug\net8.0\exercise7.dll
+C:\Users\Mario\Documents\csharp\arrays\exercise7\obj\Debug\net8.0\refint\exercise7.dll
+C:\Users\Mario\Documents\csharp\arrays\exercise7\obj\Debug\net8.0\exercise7.pdb
+C:\Users\Mario\Documents\csharp\arrays\exercise7\obj\Debug\net8.0\exercise7.genruntimeconfig.cache
+C:\Users\Mario\Documents\csharp\arrays\exercise7\obj\Debug\net8.0\ref\exercise7.dll

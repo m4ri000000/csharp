@@ -1,0 +1,14 @@
+C:\Users\Mario\Documents\csharp\magiccube\bin\Debug\net8.0\magiccube.exe
+C:\Users\Mario\Documents\csharp\magiccube\bin\Debug\net8.0\magiccube.deps.json
+C:\Users\Mario\Documents\csharp\magiccube\bin\Debug\net8.0\magiccube.runtimeconfig.json
+C:\Users\Mario\Documents\csharp\magiccube\bin\Debug\net8.0\magiccube.dll
+C:\Users\Mario\Documents\csharp\magiccube\bin\Debug\net8.0\magiccube.pdb
+C:\Users\Mario\Documents\csharp\magiccube\obj\Debug\net8.0\magiccube.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mario\Documents\csharp\magiccube\obj\Debug\net8.0\magiccube.AssemblyInfoInputs.cache
+C:\Users\Mario\Documents\csharp\magiccube\obj\Debug\net8.0\magiccube.AssemblyInfo.cs
+C:\Users\Mario\Documents\csharp\magiccube\obj\Debug\net8.0\magiccube.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Documents\csharp\magiccube\obj\Debug\net8.0\magiccube.dll
+C:\Users\Mario\Documents\csharp\magiccube\obj\Debug\net8.0\refint\magiccube.dll
+C:\Users\Mario\Documents\csharp\magiccube\obj\Debug\net8.0\magiccube.pdb
+C:\Users\Mario\Documents\csharp\magiccube\obj\Debug\net8.0\magiccube.genruntimeconfig.cache
+C:\Users\Mario\Documents\csharp\magiccube\obj\Debug\net8.0\ref\magiccube.dll

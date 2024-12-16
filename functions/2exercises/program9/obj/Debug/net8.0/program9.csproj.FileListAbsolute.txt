@@ -1,0 +1,14 @@
+C:\Users\Mario\Documents\csharpclase\functions\program9\obj\Debug\net8.0\program9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mario\Documents\csharpclase\functions\program9\obj\Debug\net8.0\program9.AssemblyInfoInputs.cache
+C:\Users\Mario\Documents\csharpclase\functions\program9\obj\Debug\net8.0\program9.AssemblyInfo.cs
+C:\Users\Mario\Documents\csharpclase\functions\program9\obj\Debug\net8.0\program9.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Documents\csharpclase\functions\program9\bin\Debug\net8.0\program9.exe
+C:\Users\Mario\Documents\csharpclase\functions\program9\bin\Debug\net8.0\program9.deps.json
+C:\Users\Mario\Documents\csharpclase\functions\program9\bin\Debug\net8.0\program9.runtimeconfig.json
+C:\Users\Mario\Documents\csharpclase\functions\program9\bin\Debug\net8.0\program9.dll
+C:\Users\Mario\Documents\csharpclase\functions\program9\bin\Debug\net8.0\program9.pdb
+C:\Users\Mario\Documents\csharpclase\functions\program9\obj\Debug\net8.0\program9.dll
+C:\Users\Mario\Documents\csharpclase\functions\program9\obj\Debug\net8.0\refint\program9.dll
+C:\Users\Mario\Documents\csharpclase\functions\program9\obj\Debug\net8.0\program9.pdb
+C:\Users\Mario\Documents\csharpclase\functions\program9\obj\Debug\net8.0\program9.genruntimeconfig.cache
+C:\Users\Mario\Documents\csharpclase\functions\program9\obj\Debug\net8.0\ref\program9.dll

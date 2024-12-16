@@ -1,0 +1,14 @@
+C:\Users\Mario\Desktop\csharp\functions\program4\bin\Debug\net8.0\program4.exe
+C:\Users\Mario\Desktop\csharp\functions\program4\bin\Debug\net8.0\program4.deps.json
+C:\Users\Mario\Desktop\csharp\functions\program4\bin\Debug\net8.0\program4.runtimeconfig.json
+C:\Users\Mario\Desktop\csharp\functions\program4\bin\Debug\net8.0\program4.dll
+C:\Users\Mario\Desktop\csharp\functions\program4\bin\Debug\net8.0\program4.pdb
+C:\Users\Mario\Desktop\csharp\functions\program4\obj\Debug\net8.0\program4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mario\Desktop\csharp\functions\program4\obj\Debug\net8.0\program4.AssemblyInfoInputs.cache
+C:\Users\Mario\Desktop\csharp\functions\program4\obj\Debug\net8.0\program4.AssemblyInfo.cs
+C:\Users\Mario\Desktop\csharp\functions\program4\obj\Debug\net8.0\program4.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Desktop\csharp\functions\program4\obj\Debug\net8.0\program4.dll
+C:\Users\Mario\Desktop\csharp\functions\program4\obj\Debug\net8.0\refint\program4.dll
+C:\Users\Mario\Desktop\csharp\functions\program4\obj\Debug\net8.0\program4.pdb
+C:\Users\Mario\Desktop\csharp\functions\program4\obj\Debug\net8.0\program4.genruntimeconfig.cache
+C:\Users\Mario\Desktop\csharp\functions\program4\obj\Debug\net8.0\ref\program4.dll

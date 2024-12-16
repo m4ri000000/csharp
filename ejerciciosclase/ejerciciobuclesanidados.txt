@@ -1,0 +1,72 @@
+1. using System;
+
+class Program
+{
+    static void Main()
+    {
+       for (int i = 0; i < 10; i++)
+       {
+        for (int num = 1; num <= 30; num++)
+        {
+            Console.Write(num + " ");
+        }
+        Console.WriteLine();
+       }
+    }
+}
+
+2. using System;
+
+class Program
+{
+    static void Main()
+    {
+      int contador = 1;
+      for (int i = 0; i < 10; i++)
+      {
+        for (int num = 0; num < 10; num++)
+        {
+            Console.Write(contador.ToString("D2") + " ");
+            contador++;
+        }
+        Console.WriteLine();
+      }
+    }
+}
+
+3. using System;
+
+class Program
+{
+    static void Main()
+    {
+        Console.Write("introducir numero: ");
+        int num = Convert.ToInt32(Console.ReadLine());
+
+        if (num < 1)
+        {
+            Console.WriteLine("El numero no es mayor que 1.");
+        }
+        else
+        {
+            int contadorDiv = 0;
+
+            for (int i = 2; i <= Math.Sqrt(num); i++)
+            {
+                if (num % 1 == 0)
+                {
+                    contadorDiv++;
+                }
+            }
+
+            if (contadorDiv == 0)
+            {
+                Console.WriteLine("El numero es primo");
+            }
+            else
+            {
+                Console.WriteLine("El número no es primo.");
+            }
+        }
+    }
+}

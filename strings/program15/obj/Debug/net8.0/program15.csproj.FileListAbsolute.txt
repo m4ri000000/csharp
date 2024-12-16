@@ -1,0 +1,14 @@
+C:\Users\Mario\Desktop\csharp\strings\program15\bin\Debug\net8.0\program15.exe
+C:\Users\Mario\Desktop\csharp\strings\program15\bin\Debug\net8.0\program15.deps.json
+C:\Users\Mario\Desktop\csharp\strings\program15\bin\Debug\net8.0\program15.runtimeconfig.json
+C:\Users\Mario\Desktop\csharp\strings\program15\bin\Debug\net8.0\program15.dll
+C:\Users\Mario\Desktop\csharp\strings\program15\bin\Debug\net8.0\program15.pdb
+C:\Users\Mario\Desktop\csharp\strings\program15\obj\Debug\net8.0\program15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mario\Desktop\csharp\strings\program15\obj\Debug\net8.0\program15.AssemblyInfoInputs.cache
+C:\Users\Mario\Desktop\csharp\strings\program15\obj\Debug\net8.0\program15.AssemblyInfo.cs
+C:\Users\Mario\Desktop\csharp\strings\program15\obj\Debug\net8.0\program15.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Desktop\csharp\strings\program15\obj\Debug\net8.0\program15.dll
+C:\Users\Mario\Desktop\csharp\strings\program15\obj\Debug\net8.0\refint\program15.dll
+C:\Users\Mario\Desktop\csharp\strings\program15\obj\Debug\net8.0\program15.pdb
+C:\Users\Mario\Desktop\csharp\strings\program15\obj\Debug\net8.0\program15.genruntimeconfig.cache
+C:\Users\Mario\Desktop\csharp\strings\program15\obj\Debug\net8.0\ref\program15.dll

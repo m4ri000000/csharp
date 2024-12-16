@@ -1,0 +1,14 @@
+C:\Users\Mario\Desktop\csharp\strings\program19\bin\Debug\net8.0\program19.exe
+C:\Users\Mario\Desktop\csharp\strings\program19\bin\Debug\net8.0\program19.deps.json
+C:\Users\Mario\Desktop\csharp\strings\program19\bin\Debug\net8.0\program19.runtimeconfig.json
+C:\Users\Mario\Desktop\csharp\strings\program19\bin\Debug\net8.0\program19.dll
+C:\Users\Mario\Desktop\csharp\strings\program19\bin\Debug\net8.0\program19.pdb
+C:\Users\Mario\Desktop\csharp\strings\program19\obj\Debug\net8.0\program19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mario\Desktop\csharp\strings\program19\obj\Debug\net8.0\program19.AssemblyInfoInputs.cache
+C:\Users\Mario\Desktop\csharp\strings\program19\obj\Debug\net8.0\program19.AssemblyInfo.cs
+C:\Users\Mario\Desktop\csharp\strings\program19\obj\Debug\net8.0\program19.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Desktop\csharp\strings\program19\obj\Debug\net8.0\program19.dll
+C:\Users\Mario\Desktop\csharp\strings\program19\obj\Debug\net8.0\refint\program19.dll
+C:\Users\Mario\Desktop\csharp\strings\program19\obj\Debug\net8.0\program19.pdb
+C:\Users\Mario\Desktop\csharp\strings\program19\obj\Debug\net8.0\program19.genruntimeconfig.cache
+C:\Users\Mario\Desktop\csharp\strings\program19\obj\Debug\net8.0\ref\program19.dll

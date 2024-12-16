@@ -1,0 +1,14 @@
+C:\Users\Mario\Desktop\csharp\strings\program17\bin\Debug\net8.0\program17.exe
+C:\Users\Mario\Desktop\csharp\strings\program17\bin\Debug\net8.0\program17.deps.json
+C:\Users\Mario\Desktop\csharp\strings\program17\bin\Debug\net8.0\program17.runtimeconfig.json
+C:\Users\Mario\Desktop\csharp\strings\program17\bin\Debug\net8.0\program17.dll
+C:\Users\Mario\Desktop\csharp\strings\program17\bin\Debug\net8.0\program17.pdb
+C:\Users\Mario\Desktop\csharp\strings\program17\obj\Debug\net8.0\program17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mario\Desktop\csharp\strings\program17\obj\Debug\net8.0\program17.AssemblyInfoInputs.cache
+C:\Users\Mario\Desktop\csharp\strings\program17\obj\Debug\net8.0\program17.AssemblyInfo.cs
+C:\Users\Mario\Desktop\csharp\strings\program17\obj\Debug\net8.0\program17.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Desktop\csharp\strings\program17\obj\Debug\net8.0\program17.dll
+C:\Users\Mario\Desktop\csharp\strings\program17\obj\Debug\net8.0\refint\program17.dll
+C:\Users\Mario\Desktop\csharp\strings\program17\obj\Debug\net8.0\program17.pdb
+C:\Users\Mario\Desktop\csharp\strings\program17\obj\Debug\net8.0\program17.genruntimeconfig.cache
+C:\Users\Mario\Desktop\csharp\strings\program17\obj\Debug\net8.0\ref\program17.dll

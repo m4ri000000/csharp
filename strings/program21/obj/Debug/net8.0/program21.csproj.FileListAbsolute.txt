@@ -1,0 +1,14 @@
+C:\Users\Mario\Desktop\csharp\strings\program21\bin\Debug\net8.0\program21.exe
+C:\Users\Mario\Desktop\csharp\strings\program21\bin\Debug\net8.0\program21.deps.json
+C:\Users\Mario\Desktop\csharp\strings\program21\bin\Debug\net8.0\program21.runtimeconfig.json
+C:\Users\Mario\Desktop\csharp\strings\program21\bin\Debug\net8.0\program21.dll
+C:\Users\Mario\Desktop\csharp\strings\program21\bin\Debug\net8.0\program21.pdb
+C:\Users\Mario\Desktop\csharp\strings\program21\obj\Debug\net8.0\program21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mario\Desktop\csharp\strings\program21\obj\Debug\net8.0\program21.AssemblyInfoInputs.cache
+C:\Users\Mario\Desktop\csharp\strings\program21\obj\Debug\net8.0\program21.AssemblyInfo.cs
+C:\Users\Mario\Desktop\csharp\strings\program21\obj\Debug\net8.0\program21.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Desktop\csharp\strings\program21\obj\Debug\net8.0\program21.dll
+C:\Users\Mario\Desktop\csharp\strings\program21\obj\Debug\net8.0\refint\program21.dll
+C:\Users\Mario\Desktop\csharp\strings\program21\obj\Debug\net8.0\program21.pdb
+C:\Users\Mario\Desktop\csharp\strings\program21\obj\Debug\net8.0\program21.genruntimeconfig.cache
+C:\Users\Mario\Desktop\csharp\strings\program21\obj\Debug\net8.0\ref\program21.dll

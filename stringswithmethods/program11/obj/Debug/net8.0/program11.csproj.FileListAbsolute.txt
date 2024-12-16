@@ -1,0 +1,6 @@
+C:\Users\Mario\Desktop\csharp\stringswithmethods\program11\obj\Debug\net8.0\program11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mario\Desktop\csharp\stringswithmethods\program11\obj\Debug\net8.0\program11.AssemblyInfoInputs.cache
+C:\Users\Mario\Desktop\csharp\stringswithmethods\program11\obj\Debug\net8.0\program11.AssemblyInfo.cs
+C:\Users\Mario\Desktop\csharp\stringswithmethods\program11\obj\Debug\net8.0\program11.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Desktop\csharp\stringswithmethods\program11\obj\Debug\net8.0\program11.dll
+C:\Users\Mario\Desktop\csharp\stringswithmethods\program11\obj\Debug\net8.0\program11.pdb

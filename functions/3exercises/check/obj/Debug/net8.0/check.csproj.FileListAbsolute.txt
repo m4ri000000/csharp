@@ -1,0 +1,14 @@
+C:\Users\Mario\Documents\csharpclase\functions\third_exercises\check\bin\Debug\net8.0\check.exe
+C:\Users\Mario\Documents\csharpclase\functions\third_exercises\check\bin\Debug\net8.0\check.deps.json
+C:\Users\Mario\Documents\csharpclase\functions\third_exercises\check\bin\Debug\net8.0\check.runtimeconfig.json
+C:\Users\Mario\Documents\csharpclase\functions\third_exercises\check\bin\Debug\net8.0\check.dll
+C:\Users\Mario\Documents\csharpclase\functions\third_exercises\check\bin\Debug\net8.0\check.pdb
+C:\Users\Mario\Documents\csharpclase\functions\third_exercises\check\obj\Debug\net8.0\check.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mario\Documents\csharpclase\functions\third_exercises\check\obj\Debug\net8.0\check.AssemblyInfoInputs.cache
+C:\Users\Mario\Documents\csharpclase\functions\third_exercises\check\obj\Debug\net8.0\check.AssemblyInfo.cs
+C:\Users\Mario\Documents\csharpclase\functions\third_exercises\check\obj\Debug\net8.0\check.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Documents\csharpclase\functions\third_exercises\check\obj\Debug\net8.0\check.dll
+C:\Users\Mario\Documents\csharpclase\functions\third_exercises\check\obj\Debug\net8.0\refint\check.dll
+C:\Users\Mario\Documents\csharpclase\functions\third_exercises\check\obj\Debug\net8.0\check.pdb
+C:\Users\Mario\Documents\csharpclase\functions\third_exercises\check\obj\Debug\net8.0\check.genruntimeconfig.cache
+C:\Users\Mario\Documents\csharpclase\functions\third_exercises\check\obj\Debug\net8.0\ref\check.dll

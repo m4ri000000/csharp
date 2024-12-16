@@ -1,0 +1,14 @@
+C:\Users\Mario\Documents\csharp\practice\exercise1functions\obj\Debug\net8.0\exercise1functions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mario\Documents\csharp\practice\exercise1functions\obj\Debug\net8.0\exercise1functions.AssemblyInfoInputs.cache
+C:\Users\Mario\Documents\csharp\practice\exercise1functions\obj\Debug\net8.0\exercise1functions.AssemblyInfo.cs
+C:\Users\Mario\Documents\csharp\practice\exercise1functions\obj\Debug\net8.0\exercise1functions.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Documents\csharp\practice\exercise1functions\bin\Debug\net8.0\exercise1functions.exe
+C:\Users\Mario\Documents\csharp\practice\exercise1functions\bin\Debug\net8.0\exercise1functions.deps.json
+C:\Users\Mario\Documents\csharp\practice\exercise1functions\bin\Debug\net8.0\exercise1functions.runtimeconfig.json
+C:\Users\Mario\Documents\csharp\practice\exercise1functions\bin\Debug\net8.0\exercise1functions.dll
+C:\Users\Mario\Documents\csharp\practice\exercise1functions\bin\Debug\net8.0\exercise1functions.pdb
+C:\Users\Mario\Documents\csharp\practice\exercise1functions\obj\Debug\net8.0\exercise1functions.dll
+C:\Users\Mario\Documents\csharp\practice\exercise1functions\obj\Debug\net8.0\refint\exercise1functions.dll
+C:\Users\Mario\Documents\csharp\practice\exercise1functions\obj\Debug\net8.0\exercise1functions.pdb
+C:\Users\Mario\Documents\csharp\practice\exercise1functions\obj\Debug\net8.0\exercise1functions.genruntimeconfig.cache
+C:\Users\Mario\Documents\csharp\practice\exercise1functions\obj\Debug\net8.0\ref\exercise1functions.dll

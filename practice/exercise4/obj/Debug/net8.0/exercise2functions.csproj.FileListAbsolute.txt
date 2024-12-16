@@ -1,0 +1,14 @@
+C:\Users\Mario\Documents\csharp\practice\exercise2functions\obj\Debug\net8.0\exercise2functions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mario\Documents\csharp\practice\exercise2functions\obj\Debug\net8.0\exercise2functions.AssemblyInfoInputs.cache
+C:\Users\Mario\Documents\csharp\practice\exercise2functions\obj\Debug\net8.0\exercise2functions.AssemblyInfo.cs
+C:\Users\Mario\Documents\csharp\practice\exercise2functions\obj\Debug\net8.0\exercise2functions.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Documents\csharp\practice\exercise2functions\bin\Debug\net8.0\exercise2functions.exe
+C:\Users\Mario\Documents\csharp\practice\exercise2functions\bin\Debug\net8.0\exercise2functions.deps.json
+C:\Users\Mario\Documents\csharp\practice\exercise2functions\bin\Debug\net8.0\exercise2functions.runtimeconfig.json
+C:\Users\Mario\Documents\csharp\practice\exercise2functions\bin\Debug\net8.0\exercise2functions.dll
+C:\Users\Mario\Documents\csharp\practice\exercise2functions\bin\Debug\net8.0\exercise2functions.pdb
+C:\Users\Mario\Documents\csharp\practice\exercise2functions\obj\Debug\net8.0\exercise2functions.dll
+C:\Users\Mario\Documents\csharp\practice\exercise2functions\obj\Debug\net8.0\refint\exercise2functions.dll
+C:\Users\Mario\Documents\csharp\practice\exercise2functions\obj\Debug\net8.0\exercise2functions.pdb
+C:\Users\Mario\Documents\csharp\practice\exercise2functions\obj\Debug\net8.0\exercise2functions.genruntimeconfig.cache
+C:\Users\Mario\Documents\csharp\practice\exercise2functions\obj\Debug\net8.0\ref\exercise2functions.dll

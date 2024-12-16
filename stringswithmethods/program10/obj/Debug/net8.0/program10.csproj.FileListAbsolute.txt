@@ -1,0 +1,14 @@
+C:\Users\Mario\Desktop\csharp\stringswithmethods\program10\obj\Debug\net8.0\program10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mario\Desktop\csharp\stringswithmethods\program10\obj\Debug\net8.0\program10.AssemblyInfoInputs.cache
+C:\Users\Mario\Desktop\csharp\stringswithmethods\program10\obj\Debug\net8.0\program10.AssemblyInfo.cs
+C:\Users\Mario\Desktop\csharp\stringswithmethods\program10\obj\Debug\net8.0\program10.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Desktop\csharp\stringswithmethods\program10\bin\Debug\net8.0\program10.exe
+C:\Users\Mario\Desktop\csharp\stringswithmethods\program10\bin\Debug\net8.0\program10.deps.json
+C:\Users\Mario\Desktop\csharp\stringswithmethods\program10\bin\Debug\net8.0\program10.runtimeconfig.json
+C:\Users\Mario\Desktop\csharp\stringswithmethods\program10\bin\Debug\net8.0\program10.dll
+C:\Users\Mario\Desktop\csharp\stringswithmethods\program10\bin\Debug\net8.0\program10.pdb
+C:\Users\Mario\Desktop\csharp\stringswithmethods\program10\obj\Debug\net8.0\program10.dll
+C:\Users\Mario\Desktop\csharp\stringswithmethods\program10\obj\Debug\net8.0\refint\program10.dll
+C:\Users\Mario\Desktop\csharp\stringswithmethods\program10\obj\Debug\net8.0\program10.pdb
+C:\Users\Mario\Desktop\csharp\stringswithmethods\program10\obj\Debug\net8.0\program10.genruntimeconfig.cache
+C:\Users\Mario\Desktop\csharp\stringswithmethods\program10\obj\Debug\net8.0\ref\program10.dll

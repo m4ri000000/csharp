@@ -1,0 +1,14 @@
+C:\Users\Mario\Desktop\csharp\strings\program2\obj\Debug\net8.0\program2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mario\Desktop\csharp\strings\program2\obj\Debug\net8.0\program2.AssemblyInfoInputs.cache
+C:\Users\Mario\Desktop\csharp\strings\program2\obj\Debug\net8.0\program2.AssemblyInfo.cs
+C:\Users\Mario\Desktop\csharp\strings\program2\obj\Debug\net8.0\program2.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Desktop\csharp\strings\program2\bin\Debug\net8.0\program2.exe
+C:\Users\Mario\Desktop\csharp\strings\program2\bin\Debug\net8.0\program2.deps.json
+C:\Users\Mario\Desktop\csharp\strings\program2\bin\Debug\net8.0\program2.runtimeconfig.json
+C:\Users\Mario\Desktop\csharp\strings\program2\bin\Debug\net8.0\program2.dll
+C:\Users\Mario\Desktop\csharp\strings\program2\bin\Debug\net8.0\program2.pdb
+C:\Users\Mario\Desktop\csharp\strings\program2\obj\Debug\net8.0\program2.dll
+C:\Users\Mario\Desktop\csharp\strings\program2\obj\Debug\net8.0\refint\program2.dll
+C:\Users\Mario\Desktop\csharp\strings\program2\obj\Debug\net8.0\program2.pdb
+C:\Users\Mario\Desktop\csharp\strings\program2\obj\Debug\net8.0\program2.genruntimeconfig.cache
+C:\Users\Mario\Desktop\csharp\strings\program2\obj\Debug\net8.0\ref\program2.dll

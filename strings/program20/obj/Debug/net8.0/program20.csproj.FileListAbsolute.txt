@@ -1,0 +1,14 @@
+C:\Users\Mario\Desktop\csharp\strings\program20\bin\Debug\net8.0\program20.exe
+C:\Users\Mario\Desktop\csharp\strings\program20\bin\Debug\net8.0\program20.deps.json
+C:\Users\Mario\Desktop\csharp\strings\program20\bin\Debug\net8.0\program20.runtimeconfig.json
+C:\Users\Mario\Desktop\csharp\strings\program20\bin\Debug\net8.0\program20.dll
+C:\Users\Mario\Desktop\csharp\strings\program20\bin\Debug\net8.0\program20.pdb
+C:\Users\Mario\Desktop\csharp\strings\program20\obj\Debug\net8.0\program20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mario\Desktop\csharp\strings\program20\obj\Debug\net8.0\program20.AssemblyInfoInputs.cache
+C:\Users\Mario\Desktop\csharp\strings\program20\obj\Debug\net8.0\program20.AssemblyInfo.cs
+C:\Users\Mario\Desktop\csharp\strings\program20\obj\Debug\net8.0\program20.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Desktop\csharp\strings\program20\obj\Debug\net8.0\program20.dll
+C:\Users\Mario\Desktop\csharp\strings\program20\obj\Debug\net8.0\refint\program20.dll
+C:\Users\Mario\Desktop\csharp\strings\program20\obj\Debug\net8.0\program20.pdb
+C:\Users\Mario\Desktop\csharp\strings\program20\obj\Debug\net8.0\program20.genruntimeconfig.cache
+C:\Users\Mario\Desktop\csharp\strings\program20\obj\Debug\net8.0\ref\program20.dll

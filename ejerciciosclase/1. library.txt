@@ -1,0 +1,109 @@
+1. <library>
+    <book id="1" genre="fiction">
+        <title>The Great Gatsby</title>
+        <author>F. Scott Fitzgerald</author>
+        <price>10.99</price>
+        <year>1925</year>
+    </book>
+    <book id="2" genre="fiction">
+        <title>To Kill a Mockingbird</title>
+        <author>Harper Lee</author>
+        <price>7.99</price>
+        <year>1960</year>
+    </book>
+    <book id="3" genre="nonfiction">
+        <title>In Cold Blood</title>
+        <author>Truman Capote</author>
+        <price>12.50</price>
+        <year>1966</year>
+    </book>
+    <book id="4" genre="fiction">
+        <title>1984</title>
+        <author>George Orwell</author>
+        <price>6.99</price>
+        <year>1949</year>
+    </book>
+    <book id="5" genre="nonfiction">
+        <title>Homo Deus</title>
+        <author>Yuval Noah Harari</author>
+        <price>15.99</price>
+        <year>2016</year>
+    </book>
+</library>
+
+
+1. library/book
+2. library/book/title
+3. //book[year > 1950]
+4. //book[@genre = 'fiction']
+5. //book[title = '1984']/author
+6. //book[price < 10]
+7. //book[@genre = 'nonfiction' and year < 2000]
+8. //book[author = 'Truman Capote']
+9. //book[@id = 3]
+10. //book[price >= 12]/title
+11. count(//book)
+12. //book/@genre
+13. -
+14. //book[contains(title, 'The')]
+15. //book[year <= 1960 and year >= 1920]
+
+2. 
+
+<movieDatabase>
+    <movie id="101" genre="drama">
+        <title>The Shawshank Redemption</title>
+        <director>Frank Darabont</director>
+        <year>1994</year>
+        <rating>9.3</rating>
+        <cast>
+            <actor>Tim Robbins</actor>
+            <actor>Morgan Freeman</actor>
+        </cast>
+    </movie>
+    <movie id="102" genre="action">
+        <title>Inception</title>
+        <director>Christopher Nolan</director>
+        <year>2010</year>
+        <rating>8.8</rating>
+        <cast>
+            <actor>Leonardo DiCaprio</actor>
+            <actor>Joseph Gordon-Levitt</actor>
+        </cast>
+    </movie>
+    <movie id="103" genre="sci-fi">
+        <title>Interstellar</title>
+        <director>Christopher Nolan</director>
+        <year>2014</year>
+        <rating>8.6</rating>
+        <cast>
+            <actor>Matthew McConaughey</actor>
+            <actor>Anne Hathaway</actor>
+        </cast>
+    </movie>
+    <movie id="104" genre="drama">
+        <title>Forrest Gump</title>
+        <director>Robert Zemeckis</director>
+        <year>1994</year>
+        <rating>8.8</rating>
+        <cast>
+            <actor>Tom Hanks</actor>
+            <actor>Robin Wright</actor>
+        </cast>
+    </movie>
+    <movie id="105" genre="sci-fi">
+        <title>The Matrix</title>
+        <director>Lana Wachowski</director>
+        <year>1999</year>
+        <rating>8.7</rating>
+        <cast>
+            <actor>Keanu Reeves</actor>
+            <actor>Laurence Fishburne</actor>
+        </cast>
+    </movie>
+</movieDatabase>
+
+1. //movie
+2. //movie/title
+3. //movie[director = 'Christopher Nolan']
+4. 

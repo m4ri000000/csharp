@@ -1,0 +1,137 @@
+1. 	
+	Console.WriteLine("inserir numero: ");
+        int numero = Convert.ToInt32(Console.ReadLine());
+
+        if (numero > 10)
+        {
+            Console.WriteLine("El numero es mayor de 10.");
+        }
+
+        if (numero == 10)
+        {
+            Console.WriteLine("El numero es igual a 10.");
+        }
+
+        if (numero < 10)
+        {
+            Console.WriteLine("El numero es menor de 10.");
+        }
+
+2.
+	Console.WriteLine("inserir numero 1: ");
+        int num1 = Convert.ToInt32(Console.ReadLine());
+
+        Console.WriteLine("inserir numero 2: ");
+        int num2 = Convert.ToInt32(Console.ReadLine());
+
+        if (num2 > num1)
+        {
+            Console.WriteLine("error");
+        }
+        else
+        {
+            int resta = num1 - num2;
+            Console.WriteLine($"el resultado es {resta}");
+        }
+
+3.
+	Console.WriteLine("inserir numero 1: ");
+        double num1 = Convert.ToInt32(Console.ReadLine());
+
+        Console.WriteLine("inserir numero 2: ");
+        double num2 = Convert.ToInt32(Console.ReadLine());
+
+        if (num2 == 0)
+        {
+            Console.WriteLine("error");
+        }
+        else if (num2 > num1)
+        {
+            Console.WriteLine("error");
+        }
+        else
+        {
+            double division = num1 / num2;
+            Console.WriteLine($"el resultado es {division}");
+        }
+
+4.
+	Console.WriteLine("inserir numero: ");
+        int num = Convert.ToInt32(Console.ReadLine());
+
+        if(num < 0)
+        {
+            Console.WriteLine("el numero es negativo.");
+        }
+        else
+        {
+            Console.WriteLine("el numero es positivo.");
+        }
+5.
+	Console.WriteLine("inserir numero: ");
+        int num = Convert.ToInt32(Console.ReadLine());
+
+        if(num % 2 == 0)
+        {
+            Console.WriteLine("el numero es par.");
+
+        }
+        else
+        {
+            Console.WriteLine("el numero es impar.");
+        }
+6.
+	Console.WriteLine("inserir nota: ");
+        int nota = Convert.ToInt32(Console.ReadLine());
+
+        if(nota < 5)
+        {
+            Console.WriteLine("suspenso");
+        }
+        else if(nota < 7)
+        {
+            Console.WriteLine("aprobado");
+        }
+        else if(nota < 9)
+        {
+            Console.WriteLine("notable");
+        }
+        else
+        {
+            Console.WriteLine("sobresaliente");
+        }
+6.2 
+	Console.WriteLine("inserir nota (ha de ser un valor entre 0 y 10): ");
+        if (double.TryParse(Console.ReadLine(), out double nota))
+        {
+            string calificacion;
+
+            if (nota < 0 || nota > 10)
+            {
+                Console.WriteLine("error, la nota ha de ser un numero entre 0 y 10.");
+                return;
+            }
+
+            if (nota < 5)
+            {
+                calificacion = "Suspenso";
+            }
+            else if (nota < 7)
+            {
+                calificacion = "Aprobado";
+            }
+            else if (nota < 9)
+            {
+                calificacion = "Notable";
+            }
+            else
+            {
+                calificacion = "Sobresaliente";
+            }
+
+            Console.WriteLine($"La calificacion para la nota {nota} es {calificacion}.");
+ 	    else
+            {
+               Console.WriteLine("error. inserir numero valido.");
+            }
+Uso double.TryParse cuando quiero asegurarme que el programa continue funcionando aun si el usuario usa algun tipo de input que no puedo usar, usando double (punto flotante de doble precision) por si el numero inserido es decimal
