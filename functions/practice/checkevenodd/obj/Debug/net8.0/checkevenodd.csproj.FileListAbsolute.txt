@@ -1,0 +1,15 @@
+C:\Users\Mario\Documents\csharp\functions\practice\checkevenodd\obj\Debug\net8.0\checkevenodd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mario\Documents\csharp\functions\practice\checkevenodd\obj\Debug\net8.0\checkevenodd.AssemblyInfoInputs.cache
+C:\Users\Mario\Documents\csharp\functions\practice\checkevenodd\obj\Debug\net8.0\checkevenodd.AssemblyInfo.cs
+C:\Users\Mario\Documents\csharp\functions\practice\checkevenodd\obj\Debug\net8.0\checkevenodd.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Documents\csharp\functions\practice\checkevenodd\obj\Debug\net8.0\checkevenodd.sourcelink.json
+C:\Users\Mario\Documents\csharp\functions\practice\checkevenodd\bin\Debug\net8.0\checkevenodd.exe
+C:\Users\Mario\Documents\csharp\functions\practice\checkevenodd\bin\Debug\net8.0\checkevenodd.deps.json
+C:\Users\Mario\Documents\csharp\functions\practice\checkevenodd\bin\Debug\net8.0\checkevenodd.runtimeconfig.json
+C:\Users\Mario\Documents\csharp\functions\practice\checkevenodd\bin\Debug\net8.0\checkevenodd.dll
+C:\Users\Mario\Documents\csharp\functions\practice\checkevenodd\bin\Debug\net8.0\checkevenodd.pdb
+C:\Users\Mario\Documents\csharp\functions\practice\checkevenodd\obj\Debug\net8.0\checkevenodd.dll
+C:\Users\Mario\Documents\csharp\functions\practice\checkevenodd\obj\Debug\net8.0\refint\checkevenodd.dll
+C:\Users\Mario\Documents\csharp\functions\practice\checkevenodd\obj\Debug\net8.0\checkevenodd.pdb
+C:\Users\Mario\Documents\csharp\functions\practice\checkevenodd\obj\Debug\net8.0\checkevenodd.genruntimeconfig.cache
+C:\Users\Mario\Documents\csharp\functions\practice\checkevenodd\obj\Debug\net8.0\ref\checkevenodd.dll

@@ -1,0 +1,15 @@
+C:\Users\Mario\Documents\csharp\functions\leetcode150\27removelement\obj\Debug\net8.0\27removelement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mario\Documents\csharp\functions\leetcode150\27removelement\obj\Debug\net8.0\27removelement.AssemblyInfoInputs.cache
+C:\Users\Mario\Documents\csharp\functions\leetcode150\27removelement\obj\Debug\net8.0\27removelement.AssemblyInfo.cs
+C:\Users\Mario\Documents\csharp\functions\leetcode150\27removelement\obj\Debug\net8.0\27removelement.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Documents\csharp\functions\leetcode150\27removelement\obj\Debug\net8.0\27removelement.sourcelink.json
+C:\Users\Mario\Documents\csharp\functions\leetcode150\27removelement\bin\Debug\net8.0\27removelement.exe
+C:\Users\Mario\Documents\csharp\functions\leetcode150\27removelement\bin\Debug\net8.0\27removelement.deps.json
+C:\Users\Mario\Documents\csharp\functions\leetcode150\27removelement\bin\Debug\net8.0\27removelement.runtimeconfig.json
+C:\Users\Mario\Documents\csharp\functions\leetcode150\27removelement\bin\Debug\net8.0\27removelement.dll
+C:\Users\Mario\Documents\csharp\functions\leetcode150\27removelement\bin\Debug\net8.0\27removelement.pdb
+C:\Users\Mario\Documents\csharp\functions\leetcode150\27removelement\obj\Debug\net8.0\27removelement.dll
+C:\Users\Mario\Documents\csharp\functions\leetcode150\27removelement\obj\Debug\net8.0\refint\27removelement.dll
+C:\Users\Mario\Documents\csharp\functions\leetcode150\27removelement\obj\Debug\net8.0\27removelement.pdb
+C:\Users\Mario\Documents\csharp\functions\leetcode150\27removelement\obj\Debug\net8.0\27removelement.genruntimeconfig.cache
+C:\Users\Mario\Documents\csharp\functions\leetcode150\27removelement\obj\Debug\net8.0\ref\27removelement.dll

@@ -1,0 +1,15 @@
+C:\Users\Mario\Documents\csharp\functions\leetcode150\169majorityelement\obj\Debug\net8.0\169majorityelement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mario\Documents\csharp\functions\leetcode150\169majorityelement\obj\Debug\net8.0\169majorityelement.AssemblyInfoInputs.cache
+C:\Users\Mario\Documents\csharp\functions\leetcode150\169majorityelement\obj\Debug\net8.0\169majorityelement.AssemblyInfo.cs
+C:\Users\Mario\Documents\csharp\functions\leetcode150\169majorityelement\obj\Debug\net8.0\169majorityelement.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Documents\csharp\functions\leetcode150\169majorityelement\obj\Debug\net8.0\169majorityelement.sourcelink.json
+C:\Users\Mario\Documents\csharp\functions\leetcode150\169majorityelement\bin\Debug\net8.0\169majorityelement.exe
+C:\Users\Mario\Documents\csharp\functions\leetcode150\169majorityelement\bin\Debug\net8.0\169majorityelement.deps.json
+C:\Users\Mario\Documents\csharp\functions\leetcode150\169majorityelement\bin\Debug\net8.0\169majorityelement.runtimeconfig.json
+C:\Users\Mario\Documents\csharp\functions\leetcode150\169majorityelement\bin\Debug\net8.0\169majorityelement.dll
+C:\Users\Mario\Documents\csharp\functions\leetcode150\169majorityelement\bin\Debug\net8.0\169majorityelement.pdb
+C:\Users\Mario\Documents\csharp\functions\leetcode150\169majorityelement\obj\Debug\net8.0\169majorityelement.dll
+C:\Users\Mario\Documents\csharp\functions\leetcode150\169majorityelement\obj\Debug\net8.0\refint\169majorityelement.dll
+C:\Users\Mario\Documents\csharp\functions\leetcode150\169majorityelement\obj\Debug\net8.0\169majorityelement.pdb
+C:\Users\Mario\Documents\csharp\functions\leetcode150\169majorityelement\obj\Debug\net8.0\169majorityelement.genruntimeconfig.cache
+C:\Users\Mario\Documents\csharp\functions\leetcode150\169majorityelement\obj\Debug\net8.0\ref\169majorityelement.dll

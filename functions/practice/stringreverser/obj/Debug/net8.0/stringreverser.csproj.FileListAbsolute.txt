@@ -1,0 +1,15 @@
+C:\Users\Mario\Documents\csharp\functions\practice\stringreverser\bin\Debug\net8.0\stringreverser.exe
+C:\Users\Mario\Documents\csharp\functions\practice\stringreverser\bin\Debug\net8.0\stringreverser.deps.json
+C:\Users\Mario\Documents\csharp\functions\practice\stringreverser\bin\Debug\net8.0\stringreverser.runtimeconfig.json
+C:\Users\Mario\Documents\csharp\functions\practice\stringreverser\bin\Debug\net8.0\stringreverser.dll
+C:\Users\Mario\Documents\csharp\functions\practice\stringreverser\bin\Debug\net8.0\stringreverser.pdb
+C:\Users\Mario\Documents\csharp\functions\practice\stringreverser\obj\Debug\net8.0\stringreverser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mario\Documents\csharp\functions\practice\stringreverser\obj\Debug\net8.0\stringreverser.AssemblyInfoInputs.cache
+C:\Users\Mario\Documents\csharp\functions\practice\stringreverser\obj\Debug\net8.0\stringreverser.AssemblyInfo.cs
+C:\Users\Mario\Documents\csharp\functions\practice\stringreverser\obj\Debug\net8.0\stringreverser.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Documents\csharp\functions\practice\stringreverser\obj\Debug\net8.0\stringreverser.sourcelink.json
+C:\Users\Mario\Documents\csharp\functions\practice\stringreverser\obj\Debug\net8.0\stringreverser.dll
+C:\Users\Mario\Documents\csharp\functions\practice\stringreverser\obj\Debug\net8.0\refint\stringreverser.dll
+C:\Users\Mario\Documents\csharp\functions\practice\stringreverser\obj\Debug\net8.0\stringreverser.pdb
+C:\Users\Mario\Documents\csharp\functions\practice\stringreverser\obj\Debug\net8.0\stringreverser.genruntimeconfig.cache
+C:\Users\Mario\Documents\csharp\functions\practice\stringreverser\obj\Debug\net8.0\ref\stringreverser.dll

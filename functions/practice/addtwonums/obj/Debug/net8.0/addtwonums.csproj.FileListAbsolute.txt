@@ -1,0 +1,15 @@
+C:\Users\Mario\Documents\csharp\functions\practice\addtwonums\obj\Debug\net8.0\addtwonums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mario\Documents\csharp\functions\practice\addtwonums\obj\Debug\net8.0\addtwonums.AssemblyInfoInputs.cache
+C:\Users\Mario\Documents\csharp\functions\practice\addtwonums\obj\Debug\net8.0\addtwonums.AssemblyInfo.cs
+C:\Users\Mario\Documents\csharp\functions\practice\addtwonums\obj\Debug\net8.0\addtwonums.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Documents\csharp\functions\practice\addtwonums\obj\Debug\net8.0\addtwonums.sourcelink.json
+C:\Users\Mario\Documents\csharp\functions\practice\addtwonums\bin\Debug\net8.0\addtwonums.exe
+C:\Users\Mario\Documents\csharp\functions\practice\addtwonums\bin\Debug\net8.0\addtwonums.deps.json
+C:\Users\Mario\Documents\csharp\functions\practice\addtwonums\bin\Debug\net8.0\addtwonums.runtimeconfig.json
+C:\Users\Mario\Documents\csharp\functions\practice\addtwonums\bin\Debug\net8.0\addtwonums.dll
+C:\Users\Mario\Documents\csharp\functions\practice\addtwonums\bin\Debug\net8.0\addtwonums.pdb
+C:\Users\Mario\Documents\csharp\functions\practice\addtwonums\obj\Debug\net8.0\addtwonums.dll
+C:\Users\Mario\Documents\csharp\functions\practice\addtwonums\obj\Debug\net8.0\refint\addtwonums.dll
+C:\Users\Mario\Documents\csharp\functions\practice\addtwonums\obj\Debug\net8.0\addtwonums.pdb
+C:\Users\Mario\Documents\csharp\functions\practice\addtwonums\obj\Debug\net8.0\addtwonums.genruntimeconfig.cache
+C:\Users\Mario\Documents\csharp\functions\practice\addtwonums\obj\Debug\net8.0\ref\addtwonums.dll

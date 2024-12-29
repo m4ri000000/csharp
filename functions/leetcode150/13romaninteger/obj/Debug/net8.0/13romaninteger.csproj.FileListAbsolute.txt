@@ -1,0 +1,15 @@
+C:\Users\Mario\Documents\csharp\functions\leetcode150\13romaninteger\obj\Debug\net8.0\13romaninteger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mario\Documents\csharp\functions\leetcode150\13romaninteger\obj\Debug\net8.0\13romaninteger.AssemblyInfoInputs.cache
+C:\Users\Mario\Documents\csharp\functions\leetcode150\13romaninteger\obj\Debug\net8.0\13romaninteger.AssemblyInfo.cs
+C:\Users\Mario\Documents\csharp\functions\leetcode150\13romaninteger\obj\Debug\net8.0\13romaninteger.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Documents\csharp\functions\leetcode150\13romaninteger\obj\Debug\net8.0\13romaninteger.sourcelink.json
+C:\Users\Mario\Documents\csharp\functions\leetcode150\13romaninteger\bin\Debug\net8.0\13romaninteger.exe
+C:\Users\Mario\Documents\csharp\functions\leetcode150\13romaninteger\bin\Debug\net8.0\13romaninteger.deps.json
+C:\Users\Mario\Documents\csharp\functions\leetcode150\13romaninteger\bin\Debug\net8.0\13romaninteger.runtimeconfig.json
+C:\Users\Mario\Documents\csharp\functions\leetcode150\13romaninteger\bin\Debug\net8.0\13romaninteger.dll
+C:\Users\Mario\Documents\csharp\functions\leetcode150\13romaninteger\bin\Debug\net8.0\13romaninteger.pdb
+C:\Users\Mario\Documents\csharp\functions\leetcode150\13romaninteger\obj\Debug\net8.0\13romaninteger.dll
+C:\Users\Mario\Documents\csharp\functions\leetcode150\13romaninteger\obj\Debug\net8.0\refint\13romaninteger.dll
+C:\Users\Mario\Documents\csharp\functions\leetcode150\13romaninteger\obj\Debug\net8.0\13romaninteger.pdb
+C:\Users\Mario\Documents\csharp\functions\leetcode150\13romaninteger\obj\Debug\net8.0\13romaninteger.genruntimeconfig.cache
+C:\Users\Mario\Documents\csharp\functions\leetcode150\13romaninteger\obj\Debug\net8.0\ref\13romaninteger.dll

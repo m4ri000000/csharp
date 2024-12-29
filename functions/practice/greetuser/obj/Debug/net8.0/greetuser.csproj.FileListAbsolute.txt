@@ -1,0 +1,15 @@
+C:\Users\Mario\Documents\csharp\functions\practice\greetuser\bin\Debug\net8.0\greetuser.exe
+C:\Users\Mario\Documents\csharp\functions\practice\greetuser\bin\Debug\net8.0\greetuser.deps.json
+C:\Users\Mario\Documents\csharp\functions\practice\greetuser\bin\Debug\net8.0\greetuser.runtimeconfig.json
+C:\Users\Mario\Documents\csharp\functions\practice\greetuser\bin\Debug\net8.0\greetuser.dll
+C:\Users\Mario\Documents\csharp\functions\practice\greetuser\bin\Debug\net8.0\greetuser.pdb
+C:\Users\Mario\Documents\csharp\functions\practice\greetuser\obj\Debug\net8.0\greetuser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mario\Documents\csharp\functions\practice\greetuser\obj\Debug\net8.0\greetuser.AssemblyInfoInputs.cache
+C:\Users\Mario\Documents\csharp\functions\practice\greetuser\obj\Debug\net8.0\greetuser.AssemblyInfo.cs
+C:\Users\Mario\Documents\csharp\functions\practice\greetuser\obj\Debug\net8.0\greetuser.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Documents\csharp\functions\practice\greetuser\obj\Debug\net8.0\greetuser.sourcelink.json
+C:\Users\Mario\Documents\csharp\functions\practice\greetuser\obj\Debug\net8.0\greetuser.dll
+C:\Users\Mario\Documents\csharp\functions\practice\greetuser\obj\Debug\net8.0\refint\greetuser.dll
+C:\Users\Mario\Documents\csharp\functions\practice\greetuser\obj\Debug\net8.0\greetuser.pdb
+C:\Users\Mario\Documents\csharp\functions\practice\greetuser\obj\Debug\net8.0\greetuser.genruntimeconfig.cache
+C:\Users\Mario\Documents\csharp\functions\practice\greetuser\obj\Debug\net8.0\ref\greetuser.dll

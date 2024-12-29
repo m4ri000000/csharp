@@ -1,0 +1,15 @@
+C:\Users\Mario\Documents\csharp\extra\extra1\obj\Debug\net8.0\extra1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mario\Documents\csharp\extra\extra1\obj\Debug\net8.0\extra1.AssemblyInfoInputs.cache
+C:\Users\Mario\Documents\csharp\extra\extra1\obj\Debug\net8.0\extra1.AssemblyInfo.cs
+C:\Users\Mario\Documents\csharp\extra\extra1\obj\Debug\net8.0\extra1.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Documents\csharp\extra\extra1\obj\Debug\net8.0\extra1.sourcelink.json
+C:\Users\Mario\Documents\csharp\extra\extra1\bin\Debug\net8.0\extra1.exe
+C:\Users\Mario\Documents\csharp\extra\extra1\bin\Debug\net8.0\extra1.deps.json
+C:\Users\Mario\Documents\csharp\extra\extra1\bin\Debug\net8.0\extra1.runtimeconfig.json
+C:\Users\Mario\Documents\csharp\extra\extra1\bin\Debug\net8.0\extra1.dll
+C:\Users\Mario\Documents\csharp\extra\extra1\bin\Debug\net8.0\extra1.pdb
+C:\Users\Mario\Documents\csharp\extra\extra1\obj\Debug\net8.0\extra1.dll
+C:\Users\Mario\Documents\csharp\extra\extra1\obj\Debug\net8.0\refint\extra1.dll
+C:\Users\Mario\Documents\csharp\extra\extra1\obj\Debug\net8.0\extra1.pdb
+C:\Users\Mario\Documents\csharp\extra\extra1\obj\Debug\net8.0\extra1.genruntimeconfig.cache
+C:\Users\Mario\Documents\csharp\extra\extra1\obj\Debug\net8.0\ref\extra1.dll

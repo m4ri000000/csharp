@@ -1,0 +1,15 @@
+C:\Users\Mario\Documents\csharp\functions\practice\findmaximum\bin\Debug\net8.0\findmaximum.exe
+C:\Users\Mario\Documents\csharp\functions\practice\findmaximum\bin\Debug\net8.0\findmaximum.deps.json
+C:\Users\Mario\Documents\csharp\functions\practice\findmaximum\bin\Debug\net8.0\findmaximum.runtimeconfig.json
+C:\Users\Mario\Documents\csharp\functions\practice\findmaximum\bin\Debug\net8.0\findmaximum.dll
+C:\Users\Mario\Documents\csharp\functions\practice\findmaximum\bin\Debug\net8.0\findmaximum.pdb
+C:\Users\Mario\Documents\csharp\functions\practice\findmaximum\obj\Debug\net8.0\findmaximum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mario\Documents\csharp\functions\practice\findmaximum\obj\Debug\net8.0\findmaximum.AssemblyInfoInputs.cache
+C:\Users\Mario\Documents\csharp\functions\practice\findmaximum\obj\Debug\net8.0\findmaximum.AssemblyInfo.cs
+C:\Users\Mario\Documents\csharp\functions\practice\findmaximum\obj\Debug\net8.0\findmaximum.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Documents\csharp\functions\practice\findmaximum\obj\Debug\net8.0\findmaximum.sourcelink.json
+C:\Users\Mario\Documents\csharp\functions\practice\findmaximum\obj\Debug\net8.0\findmaximum.dll
+C:\Users\Mario\Documents\csharp\functions\practice\findmaximum\obj\Debug\net8.0\refint\findmaximum.dll
+C:\Users\Mario\Documents\csharp\functions\practice\findmaximum\obj\Debug\net8.0\findmaximum.pdb
+C:\Users\Mario\Documents\csharp\functions\practice\findmaximum\obj\Debug\net8.0\findmaximum.genruntimeconfig.cache
+C:\Users\Mario\Documents\csharp\functions\practice\findmaximum\obj\Debug\net8.0\ref\findmaximum.dll

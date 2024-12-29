@@ -1,0 +1,15 @@
+C:\Users\Mario\Documents\csharp\functions\practice\sumofarray\obj\Debug\net8.0\sumofarray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mario\Documents\csharp\functions\practice\sumofarray\obj\Debug\net8.0\sumofarray.AssemblyInfoInputs.cache
+C:\Users\Mario\Documents\csharp\functions\practice\sumofarray\obj\Debug\net8.0\sumofarray.AssemblyInfo.cs
+C:\Users\Mario\Documents\csharp\functions\practice\sumofarray\obj\Debug\net8.0\sumofarray.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Documents\csharp\functions\practice\sumofarray\obj\Debug\net8.0\sumofarray.sourcelink.json
+C:\Users\Mario\Documents\csharp\functions\practice\sumofarray\bin\Debug\net8.0\sumofarray.exe
+C:\Users\Mario\Documents\csharp\functions\practice\sumofarray\bin\Debug\net8.0\sumofarray.deps.json
+C:\Users\Mario\Documents\csharp\functions\practice\sumofarray\bin\Debug\net8.0\sumofarray.runtimeconfig.json
+C:\Users\Mario\Documents\csharp\functions\practice\sumofarray\bin\Debug\net8.0\sumofarray.dll
+C:\Users\Mario\Documents\csharp\functions\practice\sumofarray\bin\Debug\net8.0\sumofarray.pdb
+C:\Users\Mario\Documents\csharp\functions\practice\sumofarray\obj\Debug\net8.0\sumofarray.dll
+C:\Users\Mario\Documents\csharp\functions\practice\sumofarray\obj\Debug\net8.0\refint\sumofarray.dll
+C:\Users\Mario\Documents\csharp\functions\practice\sumofarray\obj\Debug\net8.0\sumofarray.pdb
+C:\Users\Mario\Documents\csharp\functions\practice\sumofarray\obj\Debug\net8.0\sumofarray.genruntimeconfig.cache
+C:\Users\Mario\Documents\csharp\functions\practice\sumofarray\obj\Debug\net8.0\ref\sumofarray.dll
