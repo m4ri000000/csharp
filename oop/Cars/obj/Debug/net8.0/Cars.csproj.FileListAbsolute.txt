@@ -1,0 +1,15 @@
+C:\Users\Mario\Documents\csharp\oop\Cars\bin\Debug\net8.0\Cars.exe
+C:\Users\Mario\Documents\csharp\oop\Cars\bin\Debug\net8.0\Cars.deps.json
+C:\Users\Mario\Documents\csharp\oop\Cars\bin\Debug\net8.0\Cars.runtimeconfig.json
+C:\Users\Mario\Documents\csharp\oop\Cars\bin\Debug\net8.0\Cars.dll
+C:\Users\Mario\Documents\csharp\oop\Cars\bin\Debug\net8.0\Cars.pdb
+C:\Users\Mario\Documents\csharp\oop\Cars\obj\Debug\net8.0\Cars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mario\Documents\csharp\oop\Cars\obj\Debug\net8.0\Cars.AssemblyInfoInputs.cache
+C:\Users\Mario\Documents\csharp\oop\Cars\obj\Debug\net8.0\Cars.AssemblyInfo.cs
+C:\Users\Mario\Documents\csharp\oop\Cars\obj\Debug\net8.0\Cars.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Documents\csharp\oop\Cars\obj\Debug\net8.0\Cars.sourcelink.json
+C:\Users\Mario\Documents\csharp\oop\Cars\obj\Debug\net8.0\Cars.dll
+C:\Users\Mario\Documents\csharp\oop\Cars\obj\Debug\net8.0\refint\Cars.dll
+C:\Users\Mario\Documents\csharp\oop\Cars\obj\Debug\net8.0\Cars.pdb
+C:\Users\Mario\Documents\csharp\oop\Cars\obj\Debug\net8.0\Cars.genruntimeconfig.cache
+C:\Users\Mario\Documents\csharp\oop\Cars\obj\Debug\net8.0\ref\Cars.dll

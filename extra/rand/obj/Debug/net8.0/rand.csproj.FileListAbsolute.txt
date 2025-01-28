@@ -1,0 +1,15 @@
+C:\Users\Mario\Documents\csharp\extra\rand\bin\Debug\net8.0\rand.exe
+C:\Users\Mario\Documents\csharp\extra\rand\bin\Debug\net8.0\rand.deps.json
+C:\Users\Mario\Documents\csharp\extra\rand\bin\Debug\net8.0\rand.runtimeconfig.json
+C:\Users\Mario\Documents\csharp\extra\rand\bin\Debug\net8.0\rand.dll
+C:\Users\Mario\Documents\csharp\extra\rand\bin\Debug\net8.0\rand.pdb
+C:\Users\Mario\Documents\csharp\extra\rand\obj\Debug\net8.0\rand.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mario\Documents\csharp\extra\rand\obj\Debug\net8.0\rand.AssemblyInfoInputs.cache
+C:\Users\Mario\Documents\csharp\extra\rand\obj\Debug\net8.0\rand.AssemblyInfo.cs
+C:\Users\Mario\Documents\csharp\extra\rand\obj\Debug\net8.0\rand.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Documents\csharp\extra\rand\obj\Debug\net8.0\rand.sourcelink.json
+C:\Users\Mario\Documents\csharp\extra\rand\obj\Debug\net8.0\rand.dll
+C:\Users\Mario\Documents\csharp\extra\rand\obj\Debug\net8.0\refint\rand.dll
+C:\Users\Mario\Documents\csharp\extra\rand\obj\Debug\net8.0\rand.pdb
+C:\Users\Mario\Documents\csharp\extra\rand\obj\Debug\net8.0\rand.genruntimeconfig.cache
+C:\Users\Mario\Documents\csharp\extra\rand\obj\Debug\net8.0\ref\rand.dll

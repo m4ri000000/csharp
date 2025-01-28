@@ -1,0 +1,15 @@
+C:\Users\Mario\Documents\csharp\oop\IsPerfectSquare\bin\Debug\net8.0\IsPerfectSquare.exe
+C:\Users\Mario\Documents\csharp\oop\IsPerfectSquare\bin\Debug\net8.0\IsPerfectSquare.deps.json
+C:\Users\Mario\Documents\csharp\oop\IsPerfectSquare\bin\Debug\net8.0\IsPerfectSquare.runtimeconfig.json
+C:\Users\Mario\Documents\csharp\oop\IsPerfectSquare\bin\Debug\net8.0\IsPerfectSquare.dll
+C:\Users\Mario\Documents\csharp\oop\IsPerfectSquare\bin\Debug\net8.0\IsPerfectSquare.pdb
+C:\Users\Mario\Documents\csharp\oop\IsPerfectSquare\obj\Debug\net8.0\IsPerfectSquare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mario\Documents\csharp\oop\IsPerfectSquare\obj\Debug\net8.0\IsPerfectSquare.AssemblyInfoInputs.cache
+C:\Users\Mario\Documents\csharp\oop\IsPerfectSquare\obj\Debug\net8.0\IsPerfectSquare.AssemblyInfo.cs
+C:\Users\Mario\Documents\csharp\oop\IsPerfectSquare\obj\Debug\net8.0\IsPerfectSquare.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Documents\csharp\oop\IsPerfectSquare\obj\Debug\net8.0\IsPerfectSquare.sourcelink.json
+C:\Users\Mario\Documents\csharp\oop\IsPerfectSquare\obj\Debug\net8.0\IsPerfectSquare.dll
+C:\Users\Mario\Documents\csharp\oop\IsPerfectSquare\obj\Debug\net8.0\refint\IsPerfectSquare.dll
+C:\Users\Mario\Documents\csharp\oop\IsPerfectSquare\obj\Debug\net8.0\IsPerfectSquare.pdb
+C:\Users\Mario\Documents\csharp\oop\IsPerfectSquare\obj\Debug\net8.0\IsPerfectSquare.genruntimeconfig.cache
+C:\Users\Mario\Documents\csharp\oop\IsPerfectSquare\obj\Debug\net8.0\ref\IsPerfectSquare.dll
