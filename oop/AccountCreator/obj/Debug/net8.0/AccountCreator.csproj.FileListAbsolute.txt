@@ -1,0 +1,15 @@
+C:\Users\Mario\Documents\csharp\oop\AccountCreator\bin\Debug\net8.0\AccountCreator.exe
+C:\Users\Mario\Documents\csharp\oop\AccountCreator\bin\Debug\net8.0\AccountCreator.deps.json
+C:\Users\Mario\Documents\csharp\oop\AccountCreator\bin\Debug\net8.0\AccountCreator.runtimeconfig.json
+C:\Users\Mario\Documents\csharp\oop\AccountCreator\bin\Debug\net8.0\AccountCreator.dll
+C:\Users\Mario\Documents\csharp\oop\AccountCreator\bin\Debug\net8.0\AccountCreator.pdb
+C:\Users\Mario\Documents\csharp\oop\AccountCreator\obj\Debug\net8.0\AccountCreator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mario\Documents\csharp\oop\AccountCreator\obj\Debug\net8.0\AccountCreator.AssemblyInfoInputs.cache
+C:\Users\Mario\Documents\csharp\oop\AccountCreator\obj\Debug\net8.0\AccountCreator.AssemblyInfo.cs
+C:\Users\Mario\Documents\csharp\oop\AccountCreator\obj\Debug\net8.0\AccountCreator.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Documents\csharp\oop\AccountCreator\obj\Debug\net8.0\AccountCreator.sourcelink.json
+C:\Users\Mario\Documents\csharp\oop\AccountCreator\obj\Debug\net8.0\AccountCreator.dll
+C:\Users\Mario\Documents\csharp\oop\AccountCreator\obj\Debug\net8.0\refint\AccountCreator.dll
+C:\Users\Mario\Documents\csharp\oop\AccountCreator\obj\Debug\net8.0\AccountCreator.pdb
+C:\Users\Mario\Documents\csharp\oop\AccountCreator\obj\Debug\net8.0\AccountCreator.genruntimeconfig.cache
+C:\Users\Mario\Documents\csharp\oop\AccountCreator\obj\Debug\net8.0\ref\AccountCreator.dll

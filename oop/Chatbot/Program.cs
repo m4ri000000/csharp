@@ -4,7 +4,7 @@ class Program
         static void Main(string[] args)
         {
             // Create an instance of the chatbot
-            Chatbot myChatbot = new SpecializedChatbot("Asmodeus");
+            Chatbot myChatbot = new SpecializedChatbot("cookie");
 
             // Greet the user
             myChatbot.Greet();

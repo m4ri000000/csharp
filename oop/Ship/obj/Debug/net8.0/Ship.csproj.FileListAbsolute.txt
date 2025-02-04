@@ -1,0 +1,15 @@
+C:\Users\Mario\Documents\csharp\oop\Ship\bin\Debug\net8.0\Ship.exe
+C:\Users\Mario\Documents\csharp\oop\Ship\bin\Debug\net8.0\Ship.deps.json
+C:\Users\Mario\Documents\csharp\oop\Ship\bin\Debug\net8.0\Ship.runtimeconfig.json
+C:\Users\Mario\Documents\csharp\oop\Ship\bin\Debug\net8.0\Ship.dll
+C:\Users\Mario\Documents\csharp\oop\Ship\bin\Debug\net8.0\Ship.pdb
+C:\Users\Mario\Documents\csharp\oop\Ship\obj\Debug\net8.0\Ship.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mario\Documents\csharp\oop\Ship\obj\Debug\net8.0\Ship.AssemblyInfoInputs.cache
+C:\Users\Mario\Documents\csharp\oop\Ship\obj\Debug\net8.0\Ship.AssemblyInfo.cs
+C:\Users\Mario\Documents\csharp\oop\Ship\obj\Debug\net8.0\Ship.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Documents\csharp\oop\Ship\obj\Debug\net8.0\Ship.sourcelink.json
+C:\Users\Mario\Documents\csharp\oop\Ship\obj\Debug\net8.0\Ship.dll
+C:\Users\Mario\Documents\csharp\oop\Ship\obj\Debug\net8.0\refint\Ship.dll
+C:\Users\Mario\Documents\csharp\oop\Ship\obj\Debug\net8.0\Ship.pdb
+C:\Users\Mario\Documents\csharp\oop\Ship\obj\Debug\net8.0\Ship.genruntimeconfig.cache
+C:\Users\Mario\Documents\csharp\oop\Ship\obj\Debug\net8.0\ref\Ship.dll
