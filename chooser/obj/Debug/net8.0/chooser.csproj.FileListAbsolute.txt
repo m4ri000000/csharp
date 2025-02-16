@@ -1,0 +1,15 @@
+C:\Users\Mario\Documents\csharp\chooser\bin\Debug\net8.0\chooser.exe
+C:\Users\Mario\Documents\csharp\chooser\bin\Debug\net8.0\chooser.deps.json
+C:\Users\Mario\Documents\csharp\chooser\bin\Debug\net8.0\chooser.runtimeconfig.json
+C:\Users\Mario\Documents\csharp\chooser\bin\Debug\net8.0\chooser.dll
+C:\Users\Mario\Documents\csharp\chooser\bin\Debug\net8.0\chooser.pdb
+C:\Users\Mario\Documents\csharp\chooser\obj\Debug\net8.0\chooser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mario\Documents\csharp\chooser\obj\Debug\net8.0\chooser.AssemblyInfoInputs.cache
+C:\Users\Mario\Documents\csharp\chooser\obj\Debug\net8.0\chooser.AssemblyInfo.cs
+C:\Users\Mario\Documents\csharp\chooser\obj\Debug\net8.0\chooser.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Documents\csharp\chooser\obj\Debug\net8.0\chooser.sourcelink.json
+C:\Users\Mario\Documents\csharp\chooser\obj\Debug\net8.0\chooser.dll
+C:\Users\Mario\Documents\csharp\chooser\obj\Debug\net8.0\refint\chooser.dll
+C:\Users\Mario\Documents\csharp\chooser\obj\Debug\net8.0\chooser.pdb
+C:\Users\Mario\Documents\csharp\chooser\obj\Debug\net8.0\chooser.genruntimeconfig.cache
+C:\Users\Mario\Documents\csharp\chooser\obj\Debug\net8.0\ref\chooser.dll

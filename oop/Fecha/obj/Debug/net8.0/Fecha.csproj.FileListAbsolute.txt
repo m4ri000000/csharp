@@ -1,0 +1,15 @@
+C:\Users\Mario\Documents\csharp\oop\Fecha\obj\Debug\net8.0\Fecha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mario\Documents\csharp\oop\Fecha\obj\Debug\net8.0\Fecha.AssemblyInfoInputs.cache
+C:\Users\Mario\Documents\csharp\oop\Fecha\obj\Debug\net8.0\Fecha.AssemblyInfo.cs
+C:\Users\Mario\Documents\csharp\oop\Fecha\obj\Debug\net8.0\Fecha.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Documents\csharp\oop\Fecha\obj\Debug\net8.0\Fecha.sourcelink.json
+C:\Users\Mario\Documents\csharp\oop\Fecha\bin\Debug\net8.0\Fecha.exe
+C:\Users\Mario\Documents\csharp\oop\Fecha\bin\Debug\net8.0\Fecha.deps.json
+C:\Users\Mario\Documents\csharp\oop\Fecha\bin\Debug\net8.0\Fecha.runtimeconfig.json
+C:\Users\Mario\Documents\csharp\oop\Fecha\bin\Debug\net8.0\Fecha.dll
+C:\Users\Mario\Documents\csharp\oop\Fecha\bin\Debug\net8.0\Fecha.pdb
+C:\Users\Mario\Documents\csharp\oop\Fecha\obj\Debug\net8.0\Fecha.dll
+C:\Users\Mario\Documents\csharp\oop\Fecha\obj\Debug\net8.0\refint\Fecha.dll
+C:\Users\Mario\Documents\csharp\oop\Fecha\obj\Debug\net8.0\Fecha.pdb
+C:\Users\Mario\Documents\csharp\oop\Fecha\obj\Debug\net8.0\Fecha.genruntimeconfig.cache
+C:\Users\Mario\Documents\csharp\oop\Fecha\obj\Debug\net8.0\ref\Fecha.dll
