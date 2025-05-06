@@ -1,0 +1,15 @@
+C:\Users\Mario\Documents\csharp\BotellaLitro\bin\Debug\net8.0\BotellaLitro.exe
+C:\Users\Mario\Documents\csharp\BotellaLitro\bin\Debug\net8.0\BotellaLitro.deps.json
+C:\Users\Mario\Documents\csharp\BotellaLitro\bin\Debug\net8.0\BotellaLitro.runtimeconfig.json
+C:\Users\Mario\Documents\csharp\BotellaLitro\bin\Debug\net8.0\BotellaLitro.dll
+C:\Users\Mario\Documents\csharp\BotellaLitro\bin\Debug\net8.0\BotellaLitro.pdb
+C:\Users\Mario\Documents\csharp\BotellaLitro\obj\Debug\net8.0\BotellaLitro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mario\Documents\csharp\BotellaLitro\obj\Debug\net8.0\BotellaLitro.AssemblyInfoInputs.cache
+C:\Users\Mario\Documents\csharp\BotellaLitro\obj\Debug\net8.0\BotellaLitro.AssemblyInfo.cs
+C:\Users\Mario\Documents\csharp\BotellaLitro\obj\Debug\net8.0\BotellaLitro.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Documents\csharp\BotellaLitro\obj\Debug\net8.0\BotellaLitro.sourcelink.json
+C:\Users\Mario\Documents\csharp\BotellaLitro\obj\Debug\net8.0\BotellaLitro.dll
+C:\Users\Mario\Documents\csharp\BotellaLitro\obj\Debug\net8.0\refint\BotellaLitro.dll
+C:\Users\Mario\Documents\csharp\BotellaLitro\obj\Debug\net8.0\BotellaLitro.pdb
+C:\Users\Mario\Documents\csharp\BotellaLitro\obj\Debug\net8.0\BotellaLitro.genruntimeconfig.cache
+C:\Users\Mario\Documents\csharp\BotellaLitro\obj\Debug\net8.0\ref\BotellaLitro.dll

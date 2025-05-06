@@ -1,0 +1,14 @@
+F:\1DAWB\Programación\Programación\Trimestre3\Ejercicios\Ejercicio_comparativa\bin\Debug\net9.0\Ejercicio_comparativa.exe
+F:\1DAWB\Programación\Programación\Trimestre3\Ejercicios\Ejercicio_comparativa\bin\Debug\net9.0\Ejercicio_comparativa.deps.json
+F:\1DAWB\Programación\Programación\Trimestre3\Ejercicios\Ejercicio_comparativa\bin\Debug\net9.0\Ejercicio_comparativa.runtimeconfig.json
+F:\1DAWB\Programación\Programación\Trimestre3\Ejercicios\Ejercicio_comparativa\bin\Debug\net9.0\Ejercicio_comparativa.dll
+F:\1DAWB\Programación\Programación\Trimestre3\Ejercicios\Ejercicio_comparativa\bin\Debug\net9.0\Ejercicio_comparativa.pdb
+F:\1DAWB\Programación\Programación\Trimestre3\Ejercicios\Ejercicio_comparativa\obj\Debug\net9.0\Ejercicio_comparativa.GeneratedMSBuildEditorConfig.editorconfig
+F:\1DAWB\Programación\Programación\Trimestre3\Ejercicios\Ejercicio_comparativa\obj\Debug\net9.0\Ejercicio_comparativa.AssemblyInfoInputs.cache
+F:\1DAWB\Programación\Programación\Trimestre3\Ejercicios\Ejercicio_comparativa\obj\Debug\net9.0\Ejercicio_comparativa.AssemblyInfo.cs
+F:\1DAWB\Programación\Programación\Trimestre3\Ejercicios\Ejercicio_comparativa\obj\Debug\net9.0\Ejercicio_comparativa.csproj.CoreCompileInputs.cache
+F:\1DAWB\Programación\Programación\Trimestre3\Ejercicios\Ejercicio_comparativa\obj\Debug\net9.0\Ejercicio_comparativa.dll
+F:\1DAWB\Programación\Programación\Trimestre3\Ejercicios\Ejercicio_comparativa\obj\Debug\net9.0\refint\Ejercicio_comparativa.dll
+F:\1DAWB\Programación\Programación\Trimestre3\Ejercicios\Ejercicio_comparativa\obj\Debug\net9.0\Ejercicio_comparativa.pdb
+F:\1DAWB\Programación\Programación\Trimestre3\Ejercicios\Ejercicio_comparativa\obj\Debug\net9.0\Ejercicio_comparativa.genruntimeconfig.cache
+F:\1DAWB\Programación\Programación\Trimestre3\Ejercicios\Ejercicio_comparativa\obj\Debug\net9.0\ref\Ejercicio_comparativa.dll

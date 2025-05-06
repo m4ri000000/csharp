@@ -1,0 +1,14 @@
+D:\1DAWB\Programación\Programación\Trimestre3\Ejercicios\Ejercicio2\obj\Debug\net8.0\Ejercicio2.GeneratedMSBuildEditorConfig.editorconfig
+D:\1DAWB\Programación\Programación\Trimestre3\Ejercicios\Ejercicio2\obj\Debug\net8.0\Ejercicio2.AssemblyInfoInputs.cache
+D:\1DAWB\Programación\Programación\Trimestre3\Ejercicios\Ejercicio2\obj\Debug\net8.0\Ejercicio2.AssemblyInfo.cs
+D:\1DAWB\Programación\Programación\Trimestre3\Ejercicios\Ejercicio2\obj\Debug\net8.0\Ejercicio2.csproj.CoreCompileInputs.cache
+D:\1DAWB\Programación\Programación\Trimestre3\Ejercicios\Ejercicio2\bin\Debug\net8.0\Ejercicio2.exe
+D:\1DAWB\Programación\Programación\Trimestre3\Ejercicios\Ejercicio2\bin\Debug\net8.0\Ejercicio2.deps.json
+D:\1DAWB\Programación\Programación\Trimestre3\Ejercicios\Ejercicio2\bin\Debug\net8.0\Ejercicio2.runtimeconfig.json
+D:\1DAWB\Programación\Programación\Trimestre3\Ejercicios\Ejercicio2\bin\Debug\net8.0\Ejercicio2.dll
+D:\1DAWB\Programación\Programación\Trimestre3\Ejercicios\Ejercicio2\bin\Debug\net8.0\Ejercicio2.pdb
+D:\1DAWB\Programación\Programación\Trimestre3\Ejercicios\Ejercicio2\obj\Debug\net8.0\Ejercicio2.dll
+D:\1DAWB\Programación\Programación\Trimestre3\Ejercicios\Ejercicio2\obj\Debug\net8.0\refint\Ejercicio2.dll
+D:\1DAWB\Programación\Programación\Trimestre3\Ejercicios\Ejercicio2\obj\Debug\net8.0\Ejercicio2.pdb
+D:\1DAWB\Programación\Programación\Trimestre3\Ejercicios\Ejercicio2\obj\Debug\net8.0\Ejercicio2.genruntimeconfig.cache
+D:\1DAWB\Programación\Programación\Trimestre3\Ejercicios\Ejercicio2\obj\Debug\net8.0\ref\Ejercicio2.dll

@@ -1,0 +1,15 @@
+C:\Users\Mario\Documents\csharp\ADN\bin\Debug\net8.0\ADN.exe
+C:\Users\Mario\Documents\csharp\ADN\bin\Debug\net8.0\ADN.deps.json
+C:\Users\Mario\Documents\csharp\ADN\bin\Debug\net8.0\ADN.runtimeconfig.json
+C:\Users\Mario\Documents\csharp\ADN\bin\Debug\net8.0\ADN.dll
+C:\Users\Mario\Documents\csharp\ADN\bin\Debug\net8.0\ADN.pdb
+C:\Users\Mario\Documents\csharp\ADN\obj\Debug\net8.0\ADN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mario\Documents\csharp\ADN\obj\Debug\net8.0\ADN.AssemblyInfoInputs.cache
+C:\Users\Mario\Documents\csharp\ADN\obj\Debug\net8.0\ADN.AssemblyInfo.cs
+C:\Users\Mario\Documents\csharp\ADN\obj\Debug\net8.0\ADN.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Documents\csharp\ADN\obj\Debug\net8.0\ADN.sourcelink.json
+C:\Users\Mario\Documents\csharp\ADN\obj\Debug\net8.0\ADN.dll
+C:\Users\Mario\Documents\csharp\ADN\obj\Debug\net8.0\refint\ADN.dll
+C:\Users\Mario\Documents\csharp\ADN\obj\Debug\net8.0\ADN.pdb
+C:\Users\Mario\Documents\csharp\ADN\obj\Debug\net8.0\ADN.genruntimeconfig.cache
+C:\Users\Mario\Documents\csharp\ADN\obj\Debug\net8.0\ref\ADN.dll

@@ -1,0 +1,3 @@
+2025-05-06 19:50:20 - Program started.
+2025-05-06 19:50:20 - File samplefile.txt created successfully.
+2025-05-06 19:50:20 - Written to samplefile.txt.

@@ -1,0 +1,15 @@
+C:\Users\Mario\Documents\csharp\shapecalculator\bin\Debug\net8.0\shapecalculator.exe
+C:\Users\Mario\Documents\csharp\shapecalculator\bin\Debug\net8.0\shapecalculator.deps.json
+C:\Users\Mario\Documents\csharp\shapecalculator\bin\Debug\net8.0\shapecalculator.runtimeconfig.json
+C:\Users\Mario\Documents\csharp\shapecalculator\bin\Debug\net8.0\shapecalculator.dll
+C:\Users\Mario\Documents\csharp\shapecalculator\bin\Debug\net8.0\shapecalculator.pdb
+C:\Users\Mario\Documents\csharp\shapecalculator\obj\Debug\net8.0\shapecalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mario\Documents\csharp\shapecalculator\obj\Debug\net8.0\shapecalculator.AssemblyInfoInputs.cache
+C:\Users\Mario\Documents\csharp\shapecalculator\obj\Debug\net8.0\shapecalculator.AssemblyInfo.cs
+C:\Users\Mario\Documents\csharp\shapecalculator\obj\Debug\net8.0\shapecalculator.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Documents\csharp\shapecalculator\obj\Debug\net8.0\shapecalculator.sourcelink.json
+C:\Users\Mario\Documents\csharp\shapecalculator\obj\Debug\net8.0\shapecalculator.dll
+C:\Users\Mario\Documents\csharp\shapecalculator\obj\Debug\net8.0\refint\shapecalculator.dll
+C:\Users\Mario\Documents\csharp\shapecalculator\obj\Debug\net8.0\shapecalculator.pdb
+C:\Users\Mario\Documents\csharp\shapecalculator\obj\Debug\net8.0\shapecalculator.genruntimeconfig.cache
+C:\Users\Mario\Documents\csharp\shapecalculator\obj\Debug\net8.0\ref\shapecalculator.dll

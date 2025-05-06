@@ -1,0 +1,14 @@
+D:\1DAWB\Programación\Programación\Trimestre3\Ejercicios\Ejemplo1LeerFichero\bin\Debug\net9.0\Prueba.exe
+D:\1DAWB\Programación\Programación\Trimestre3\Ejercicios\Ejemplo1LeerFichero\bin\Debug\net9.0\Prueba.deps.json
+D:\1DAWB\Programación\Programación\Trimestre3\Ejercicios\Ejemplo1LeerFichero\bin\Debug\net9.0\Prueba.runtimeconfig.json
+D:\1DAWB\Programación\Programación\Trimestre3\Ejercicios\Ejemplo1LeerFichero\bin\Debug\net9.0\Prueba.dll
+D:\1DAWB\Programación\Programación\Trimestre3\Ejercicios\Ejemplo1LeerFichero\bin\Debug\net9.0\Prueba.pdb
+D:\1DAWB\Programación\Programación\Trimestre3\Ejercicios\Ejemplo1LeerFichero\obj\Debug\net9.0\Prueba.GeneratedMSBuildEditorConfig.editorconfig
+D:\1DAWB\Programación\Programación\Trimestre3\Ejercicios\Ejemplo1LeerFichero\obj\Debug\net9.0\Prueba.AssemblyInfoInputs.cache
+D:\1DAWB\Programación\Programación\Trimestre3\Ejercicios\Ejemplo1LeerFichero\obj\Debug\net9.0\Prueba.AssemblyInfo.cs
+D:\1DAWB\Programación\Programación\Trimestre3\Ejercicios\Ejemplo1LeerFichero\obj\Debug\net9.0\Prueba.csproj.CoreCompileInputs.cache
+D:\1DAWB\Programación\Programación\Trimestre3\Ejercicios\Ejemplo1LeerFichero\obj\Debug\net9.0\Prueba.dll
+D:\1DAWB\Programación\Programación\Trimestre3\Ejercicios\Ejemplo1LeerFichero\obj\Debug\net9.0\refint\Prueba.dll
+D:\1DAWB\Programación\Programación\Trimestre3\Ejercicios\Ejemplo1LeerFichero\obj\Debug\net9.0\Prueba.pdb
+D:\1DAWB\Programación\Programación\Trimestre3\Ejercicios\Ejemplo1LeerFichero\obj\Debug\net9.0\Prueba.genruntimeconfig.cache
+D:\1DAWB\Programación\Programación\Trimestre3\Ejercicios\Ejemplo1LeerFichero\obj\Debug\net9.0\ref\Prueba.dll

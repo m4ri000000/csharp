@@ -1,0 +1,15 @@
+C:\Users\Mario\Documents\csharp\FileStream_BinaryIO\Practicas_Examen\ex10\obj\Debug\net8.0\ex10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mario\Documents\csharp\FileStream_BinaryIO\Practicas_Examen\ex10\obj\Debug\net8.0\ex10.AssemblyInfoInputs.cache
+C:\Users\Mario\Documents\csharp\FileStream_BinaryIO\Practicas_Examen\ex10\obj\Debug\net8.0\ex10.AssemblyInfo.cs
+C:\Users\Mario\Documents\csharp\FileStream_BinaryIO\Practicas_Examen\ex10\obj\Debug\net8.0\ex10.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Documents\csharp\FileStream_BinaryIO\Practicas_Examen\ex10\obj\Debug\net8.0\ex10.sourcelink.json
+C:\Users\Mario\Documents\csharp\FileStream_BinaryIO\Practicas_Examen\ex10\bin\Debug\net8.0\ex10.exe
+C:\Users\Mario\Documents\csharp\FileStream_BinaryIO\Practicas_Examen\ex10\bin\Debug\net8.0\ex10.deps.json
+C:\Users\Mario\Documents\csharp\FileStream_BinaryIO\Practicas_Examen\ex10\bin\Debug\net8.0\ex10.runtimeconfig.json
+C:\Users\Mario\Documents\csharp\FileStream_BinaryIO\Practicas_Examen\ex10\bin\Debug\net8.0\ex10.dll
+C:\Users\Mario\Documents\csharp\FileStream_BinaryIO\Practicas_Examen\ex10\bin\Debug\net8.0\ex10.pdb
+C:\Users\Mario\Documents\csharp\FileStream_BinaryIO\Practicas_Examen\ex10\obj\Debug\net8.0\ex10.dll
+C:\Users\Mario\Documents\csharp\FileStream_BinaryIO\Practicas_Examen\ex10\obj\Debug\net8.0\refint\ex10.dll
+C:\Users\Mario\Documents\csharp\FileStream_BinaryIO\Practicas_Examen\ex10\obj\Debug\net8.0\ex10.pdb
+C:\Users\Mario\Documents\csharp\FileStream_BinaryIO\Practicas_Examen\ex10\obj\Debug\net8.0\ex10.genruntimeconfig.cache
+C:\Users\Mario\Documents\csharp\FileStream_BinaryIO\Practicas_Examen\ex10\obj\Debug\net8.0\ref\ex10.dll

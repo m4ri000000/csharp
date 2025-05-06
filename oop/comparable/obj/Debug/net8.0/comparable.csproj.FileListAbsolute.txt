@@ -1,0 +1,15 @@
+C:\Users\Mario\Documents\csharp\oop\comparable\bin\Debug\net8.0\comparable.exe
+C:\Users\Mario\Documents\csharp\oop\comparable\bin\Debug\net8.0\comparable.deps.json
+C:\Users\Mario\Documents\csharp\oop\comparable\bin\Debug\net8.0\comparable.runtimeconfig.json
+C:\Users\Mario\Documents\csharp\oop\comparable\bin\Debug\net8.0\comparable.dll
+C:\Users\Mario\Documents\csharp\oop\comparable\bin\Debug\net8.0\comparable.pdb
+C:\Users\Mario\Documents\csharp\oop\comparable\obj\Debug\net8.0\comparable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mario\Documents\csharp\oop\comparable\obj\Debug\net8.0\comparable.AssemblyInfoInputs.cache
+C:\Users\Mario\Documents\csharp\oop\comparable\obj\Debug\net8.0\comparable.AssemblyInfo.cs
+C:\Users\Mario\Documents\csharp\oop\comparable\obj\Debug\net8.0\comparable.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Documents\csharp\oop\comparable\obj\Debug\net8.0\comparable.sourcelink.json
+C:\Users\Mario\Documents\csharp\oop\comparable\obj\Debug\net8.0\comparable.dll
+C:\Users\Mario\Documents\csharp\oop\comparable\obj\Debug\net8.0\refint\comparable.dll
+C:\Users\Mario\Documents\csharp\oop\comparable\obj\Debug\net8.0\comparable.pdb
+C:\Users\Mario\Documents\csharp\oop\comparable\obj\Debug\net8.0\comparable.genruntimeconfig.cache
+C:\Users\Mario\Documents\csharp\oop\comparable\obj\Debug\net8.0\ref\comparable.dll

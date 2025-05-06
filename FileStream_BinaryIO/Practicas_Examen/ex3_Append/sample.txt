@@ -1,0 +1,5 @@
+Hey this is the first line,
+while this is the second one
+and this is the last one!
+this is an append line
+appending allows adding content without overwriting!
