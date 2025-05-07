@@ -1,0 +1,15 @@
+C:\Users\Mario\Documents\csharp\Preparation_for_exam\ex6_Calificaciones\bin\Debug\net8.0\ex6_Calificaciones.exe
+C:\Users\Mario\Documents\csharp\Preparation_for_exam\ex6_Calificaciones\bin\Debug\net8.0\ex6_Calificaciones.deps.json
+C:\Users\Mario\Documents\csharp\Preparation_for_exam\ex6_Calificaciones\bin\Debug\net8.0\ex6_Calificaciones.runtimeconfig.json
+C:\Users\Mario\Documents\csharp\Preparation_for_exam\ex6_Calificaciones\bin\Debug\net8.0\ex6_Calificaciones.dll
+C:\Users\Mario\Documents\csharp\Preparation_for_exam\ex6_Calificaciones\bin\Debug\net8.0\ex6_Calificaciones.pdb
+C:\Users\Mario\Documents\csharp\Preparation_for_exam\ex6_Calificaciones\obj\Debug\net8.0\ex6_Calificaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mario\Documents\csharp\Preparation_for_exam\ex6_Calificaciones\obj\Debug\net8.0\ex6_Calificaciones.AssemblyInfoInputs.cache
+C:\Users\Mario\Documents\csharp\Preparation_for_exam\ex6_Calificaciones\obj\Debug\net8.0\ex6_Calificaciones.AssemblyInfo.cs
+C:\Users\Mario\Documents\csharp\Preparation_for_exam\ex6_Calificaciones\obj\Debug\net8.0\ex6_Calificaciones.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Documents\csharp\Preparation_for_exam\ex6_Calificaciones\obj\Debug\net8.0\ex6_Calificaciones.sourcelink.json
+C:\Users\Mario\Documents\csharp\Preparation_for_exam\ex6_Calificaciones\obj\Debug\net8.0\ex6_Calificaciones.dll
+C:\Users\Mario\Documents\csharp\Preparation_for_exam\ex6_Calificaciones\obj\Debug\net8.0\refint\ex6_Calificaciones.dll
+C:\Users\Mario\Documents\csharp\Preparation_for_exam\ex6_Calificaciones\obj\Debug\net8.0\ex6_Calificaciones.pdb
+C:\Users\Mario\Documents\csharp\Preparation_for_exam\ex6_Calificaciones\obj\Debug\net8.0\ex6_Calificaciones.genruntimeconfig.cache
+C:\Users\Mario\Documents\csharp\Preparation_for_exam\ex6_Calificaciones\obj\Debug\net8.0\ref\ex6_Calificaciones.dll

@@ -1,0 +1,15 @@
+C:\Users\Mario\Documents\csharp\Preparation_for_exam\ex7_Wav\obj\Debug\net8.0\ex7_Wav.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mario\Documents\csharp\Preparation_for_exam\ex7_Wav\obj\Debug\net8.0\ex7_Wav.AssemblyInfoInputs.cache
+C:\Users\Mario\Documents\csharp\Preparation_for_exam\ex7_Wav\obj\Debug\net8.0\ex7_Wav.AssemblyInfo.cs
+C:\Users\Mario\Documents\csharp\Preparation_for_exam\ex7_Wav\obj\Debug\net8.0\ex7_Wav.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Documents\csharp\Preparation_for_exam\ex7_Wav\obj\Debug\net8.0\ex7_Wav.sourcelink.json
+C:\Users\Mario\Documents\csharp\Preparation_for_exam\ex7_Wav\bin\Debug\net8.0\ex7_Wav.exe
+C:\Users\Mario\Documents\csharp\Preparation_for_exam\ex7_Wav\bin\Debug\net8.0\ex7_Wav.deps.json
+C:\Users\Mario\Documents\csharp\Preparation_for_exam\ex7_Wav\bin\Debug\net8.0\ex7_Wav.runtimeconfig.json
+C:\Users\Mario\Documents\csharp\Preparation_for_exam\ex7_Wav\bin\Debug\net8.0\ex7_Wav.dll
+C:\Users\Mario\Documents\csharp\Preparation_for_exam\ex7_Wav\bin\Debug\net8.0\ex7_Wav.pdb
+C:\Users\Mario\Documents\csharp\Preparation_for_exam\ex7_Wav\obj\Debug\net8.0\ex7_Wav.dll
+C:\Users\Mario\Documents\csharp\Preparation_for_exam\ex7_Wav\obj\Debug\net8.0\refint\ex7_Wav.dll
+C:\Users\Mario\Documents\csharp\Preparation_for_exam\ex7_Wav\obj\Debug\net8.0\ex7_Wav.pdb
+C:\Users\Mario\Documents\csharp\Preparation_for_exam\ex7_Wav\obj\Debug\net8.0\ex7_Wav.genruntimeconfig.cache
+C:\Users\Mario\Documents\csharp\Preparation_for_exam\ex7_Wav\obj\Debug\net8.0\ref\ex7_Wav.dll

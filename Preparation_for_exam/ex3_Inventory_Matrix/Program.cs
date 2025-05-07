@@ -51,7 +51,7 @@ class Inventario
 
         if (fila == -1)
         {
-            Console.WriteLine("Producto no encontrado.");
+            Console.WriteLine("Producto no encontrado.");m
             return;
         }
 
