@@ -1,0 +1,15 @@
+C:\Users\Mario\Documents\csharp\Preparation_for_exam\ex4_Inventory_Matrix\bin\Debug\net8.0\ex4_Inventory_Matrix.exe
+C:\Users\Mario\Documents\csharp\Preparation_for_exam\ex4_Inventory_Matrix\bin\Debug\net8.0\ex4_Inventory_Matrix.deps.json
+C:\Users\Mario\Documents\csharp\Preparation_for_exam\ex4_Inventory_Matrix\bin\Debug\net8.0\ex4_Inventory_Matrix.runtimeconfig.json
+C:\Users\Mario\Documents\csharp\Preparation_for_exam\ex4_Inventory_Matrix\bin\Debug\net8.0\ex4_Inventory_Matrix.dll
+C:\Users\Mario\Documents\csharp\Preparation_for_exam\ex4_Inventory_Matrix\bin\Debug\net8.0\ex4_Inventory_Matrix.pdb
+C:\Users\Mario\Documents\csharp\Preparation_for_exam\ex4_Inventory_Matrix\obj\Debug\net8.0\ex4_Inventory_Matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mario\Documents\csharp\Preparation_for_exam\ex4_Inventory_Matrix\obj\Debug\net8.0\ex4_Inventory_Matrix.AssemblyInfoInputs.cache
+C:\Users\Mario\Documents\csharp\Preparation_for_exam\ex4_Inventory_Matrix\obj\Debug\net8.0\ex4_Inventory_Matrix.AssemblyInfo.cs
+C:\Users\Mario\Documents\csharp\Preparation_for_exam\ex4_Inventory_Matrix\obj\Debug\net8.0\ex4_Inventory_Matrix.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Documents\csharp\Preparation_for_exam\ex4_Inventory_Matrix\obj\Debug\net8.0\ex4_Inventory_Matrix.sourcelink.json
+C:\Users\Mario\Documents\csharp\Preparation_for_exam\ex4_Inventory_Matrix\obj\Debug\net8.0\ex4_Inventory_Matrix.dll
+C:\Users\Mario\Documents\csharp\Preparation_for_exam\ex4_Inventory_Matrix\obj\Debug\net8.0\refint\ex4_Inventory_Matrix.dll
+C:\Users\Mario\Documents\csharp\Preparation_for_exam\ex4_Inventory_Matrix\obj\Debug\net8.0\ex4_Inventory_Matrix.pdb
+C:\Users\Mario\Documents\csharp\Preparation_for_exam\ex4_Inventory_Matrix\obj\Debug\net8.0\ex4_Inventory_Matrix.genruntimeconfig.cache
+C:\Users\Mario\Documents\csharp\Preparation_for_exam\ex4_Inventory_Matrix\obj\Debug\net8.0\ref\ex4_Inventory_Matrix.dll

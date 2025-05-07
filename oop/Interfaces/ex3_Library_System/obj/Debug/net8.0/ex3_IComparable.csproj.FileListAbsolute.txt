@@ -1,0 +1,15 @@
+C:\Users\Mario\Documents\csharp\OOP\Interfaces\ex3_Library_System\bin\Debug\net8.0\ex3_IComparable.exe
+C:\Users\Mario\Documents\csharp\OOP\Interfaces\ex3_Library_System\bin\Debug\net8.0\ex3_IComparable.deps.json
+C:\Users\Mario\Documents\csharp\OOP\Interfaces\ex3_Library_System\bin\Debug\net8.0\ex3_IComparable.runtimeconfig.json
+C:\Users\Mario\Documents\csharp\OOP\Interfaces\ex3_Library_System\bin\Debug\net8.0\ex3_IComparable.dll
+C:\Users\Mario\Documents\csharp\OOP\Interfaces\ex3_Library_System\bin\Debug\net8.0\ex3_IComparable.pdb
+C:\Users\Mario\Documents\csharp\OOP\Interfaces\ex3_Library_System\obj\Debug\net8.0\ex3_IComparable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mario\Documents\csharp\OOP\Interfaces\ex3_Library_System\obj\Debug\net8.0\ex3_IComparable.AssemblyInfoInputs.cache
+C:\Users\Mario\Documents\csharp\OOP\Interfaces\ex3_Library_System\obj\Debug\net8.0\ex3_IComparable.AssemblyInfo.cs
+C:\Users\Mario\Documents\csharp\OOP\Interfaces\ex3_Library_System\obj\Debug\net8.0\ex3_IComparable.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Documents\csharp\OOP\Interfaces\ex3_Library_System\obj\Debug\net8.0\ex3_IComparable.sourcelink.json
+C:\Users\Mario\Documents\csharp\OOP\Interfaces\ex3_Library_System\obj\Debug\net8.0\ex3_IComparable.dll
+C:\Users\Mario\Documents\csharp\OOP\Interfaces\ex3_Library_System\obj\Debug\net8.0\refint\ex3_IComparable.dll
+C:\Users\Mario\Documents\csharp\OOP\Interfaces\ex3_Library_System\obj\Debug\net8.0\ex3_IComparable.pdb
+C:\Users\Mario\Documents\csharp\OOP\Interfaces\ex3_Library_System\obj\Debug\net8.0\ex3_IComparable.genruntimeconfig.cache
+C:\Users\Mario\Documents\csharp\OOP\Interfaces\ex3_Library_System\obj\Debug\net8.0\ref\ex3_IComparable.dll
